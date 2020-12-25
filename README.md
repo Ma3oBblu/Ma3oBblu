@@ -10,7 +10,7 @@ Get contacts on: https://rusdigi.name
 <span><img src="https://img.shields.io/badge/PHP-white?style=flat-square&logo=php"/></span>
 <span><img src="https://img.shields.io/badge/NodeJS-white?style=flat-square&logo=node.js"/></span>
 <span><img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python"/></span>
-<span><img src="https://img.shields.io/badge/confluence-lightgray?style=flat-square&logo=mysql"/></span>
+<span><img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql"/></span>
 
 <hr/>
 <span><img src="https://img.shields.io/badge/redis-lightgray?style=flat-square&logo=redis"/></span>
