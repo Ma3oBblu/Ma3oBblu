@@ -6,11 +6,11 @@ Get contacts on: https://rusdigi.name
 <a target="_blank" href="mailto:Ma3oBblu@gmail.com"><img src="https://img.shields.io/badge/Gmail-Ma3oBblu@gmail.com-green?style=flat-square&logo=Gmail"/></a>
 
 <hr/>
-<span><img src="https://img.shields.io/badge/Golang-yellow?style=flat-square&logo=go"/></span>
-<span><img src="https://img.shields.io/badge/PHP-yellow?style=flat-square&logo=php"/></span>
-<span><img src="https://img.shields.io/badge/NodeJS-yellow?style=flat-square&logo=node.js"/></span>
-<span><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python"/></span>
-<span><img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=mysql"/></span>
+<span><img src="https://img.shields.io/badge/Golang-yellowgreen?style=flat-square&logo=go"/></span>
+<span><img src="https://img.shields.io/badge/PHP-yellowgreen?style=flat-square&logo=php"/></span>
+<span><img src="https://img.shields.io/badge/NodeJS-yellowgreen?style=flat-square&logo=node.js"/></span>
+<span><img src="https://img.shields.io/badge/Python-yellowgreen?style=flat-square&logo=python"/></span>
+<span><img src="https://img.shields.io/badge/MySQL-yellowgreen?style=flat-square&logo=mysql"/></span>
 
 <hr/>
 <span><img src="https://img.shields.io/badge/redis-white?style=flat-square&logo=redis"/></span>
