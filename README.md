@@ -12,10 +12,10 @@ Get contacts on: https://rusdigi.name
 <span><img src="https://img.shields.io/badge/Golang-white?style=flat-square&logo=go"/></span>
 
 <hr/>
-<span><img src="https://img.shields.io/badge/confluence-green?style=flat-square&logo=confluence"/></span>
-<span><img src="https://img.shields.io/badge/jira-white?style=flat-square&logo=jira"/></span>
-<span><img src="https://img.shields.io/badge/bitbucket-green?style=flat-square&logo=bitbucket"/></span>
-<span><img src="https://img.shields.io/badge/gitlab-green?style=flat-square&logo=gitlab"/></span>
-<span><img src="https://img.shields.io/badge/github-green?style=flat-square&logo=github"/></span>
-<span><img src="https://img.shields.io/badge/docker-green?style=flat-square&logo=docker"/></span>
-<span><img src="https://img.shields.io/badge/kubernetes-green?style=flat-square&logo=kubernetes"/></span>
+<span><img src="https://img.shields.io/badge/confluence-lightgray?style=flat-square&logo=confluence"/></span>
+<span><img src="https://img.shields.io/badge/jira-lightgray?style=flat-square&logo=jira"/></span>
+<span><img src="https://img.shields.io/badge/bitbucket-lightgray?style=flat-square&logo=bitbucket"/></span>
+<span><img src="https://img.shields.io/badge/gitlab-lightgray?style=flat-square&logo=gitlab"/></span>
+<span><img src="https://img.shields.io/badge/github-lightgray?style=flat-square&logo=github"/></span>
+<span><img src="https://img.shields.io/badge/docker-lightgray?style=flat-square&logo=docker"/></span>
+<span><img src="https://img.shields.io/badge/kubernetes-lightgray?style=flat-square&logo=kubernetes"/></span>
