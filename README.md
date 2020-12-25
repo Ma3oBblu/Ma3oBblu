@@ -13,12 +13,12 @@ Get contacts on: https://rusdigi.name
 <span><img src="https://img.shields.io/badge/MySQL-yellowgreen?style=flat-square&logo=mysql"/></span>
 
 <hr/>
-<span><img src="https://img.shields.io/badge/redis-white?style=flat-square&logo=redis"/></span>
-<span><img src="https://img.shields.io/badge/rabbitmq-white?style=flat-square&logo=rabbitmq"/></span>
-<span><img src="https://img.shields.io/badge/tarantool-white?style=flat-square&logo=tarantool"/></span>
-<span><img src="https://img.shields.io/badge/grafana-white?style=flat-square&logo=grafana"/></span>
-<span><img src="https://img.shields.io/badge/prometheus-white?style=flat-square&logo=prometheus"/></span>
-<span><img src="https://img.shields.io/badge/kibana-white?style=flat-square&logo=kibana"/></span>
+<span><img src="https://img.shields.io/badge/redis-9cf?style=flat-square&logo=redis"/></span>
+<span><img src="https://img.shields.io/badge/rabbitmq-9cf?style=flat-square&logo=rabbitmq"/></span>
+<span><img src="https://img.shields.io/badge/grafana-9cf?style=flat-square&logo=grafana"/></span>
+<span><img src="https://img.shields.io/badge/prometheus-9cf?style=flat-square&logo=prometheus"/></span>
+<span><img src="https://img.shields.io/badge/kibana-9cf?style=flat-square&logo=kibana"/></span>
+<span><img src="https://img.shields.io/badge/tarantool-9cf?style=flat-square&logo=tarantool"/></span>
 
 <hr/>
 <span><img src="https://img.shields.io/badge/confluence-lightgray?style=flat-square&logo=confluence"/></span>
