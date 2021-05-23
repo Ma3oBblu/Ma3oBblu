@@ -8,6 +8,7 @@ Get contacts on: https://rusdigi.name
 <hr/>
 <span><img src="https://img.shields.io/badge/Golang-green?style=flat-square&logo=go"/></span>
 <span><img src="https://img.shields.io/badge/PHP-green?style=flat-square&logo=php"/></span>
+<span><img src="https://img.shields.io/badge/Lua-green?style=flat-square&logo=lua"/></span>
 <span><img src="https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=node.js"/></span>
 <span><img src="https://img.shields.io/badge/Python-green?style=flat-square&logo=python"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-green?style=flat-square&logo=mysql"/></span>
