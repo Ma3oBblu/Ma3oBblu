@@ -1,6 +1,4 @@
-I’m currently working on <a href="https://citilink.ru/" target="_blank">citilink.ru</a> at <a target="_blank" href="https://merlion.com/">Merlion</a>
-
-Get contacts on: https://rusdigi.name
+I’m currently working in <a target="_blank" href="https://avito.ru/">Avito.ru</a>
 
 <a target="_blank" href="https://t.me/Ma3oBblu"><img src="https://img.shields.io/badge/Telegram-Ma3oBblu-green?style=flat-square&logo=Telegram"/></a>
 <a target="_blank" href="mailto:Ma3oBblu@gmail.com"><img src="https://img.shields.io/badge/Gmail-Ma3oBblu@gmail.com-green?style=flat-square&logo=Gmail"/></a>
